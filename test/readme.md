@@ -216,13 +216,15 @@ Test end!
 
 性能测试：`perf_test_v0.01_n4ddr/soc_axi_perf`
 
-## 运行PMON/OS扩展：
+## 运行PMON/OS扩展/软硬件协同调试参考：
 
 由于极少数同学会做到这一步，因此为了节省空间不在资料包中提供。
 
 移植到N4的运行PMON/OS的SoC：`https://github.com/cyyself/EggMIPS-SoC`
 
 去除NAND简化后的PMON代码：`https://github.com/cyyself/pmon-archlab`
+
+gcc-4.3：`https://mirrors.tuna.tsinghua.edu.cn/loongson/loongson1c_bsp/gcc-4.3/gcc-4.3-ls232.tar.gz`
 
 uCore代码：`https://github.com/cyyself/ucore-thumips`
 
