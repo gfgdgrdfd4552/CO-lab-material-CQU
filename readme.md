@@ -2,6 +2,10 @@
 
 本发布包用于整理硬综需要用到的所有资料，防止有资料漏发的情况。持续更新。
 
+### 实验文档
+
+[https://colabdocs.cqu.ai/](https://colabdocs.cqu.ai/)
+
 ### Vivado下载
 
 学校内网：http://172.20.106.26/Xilinx_Unified_2021.2_1021_0703.tar.gz
